@@ -1,0 +1,29 @@
+﻿
+Pin 00 - 
+Pin 01 - 
+Pin 02 - Tri-colour LED | B L U E
+Pin 03 - Tri-colour LED | G R E E N
+Pin 04 - Tri-colour LED | R E D
+Pin 05 - Music Speaker | O R A N G E
+Pin 06 - Capacitive Sensor | B L U E Bottom
+Pin 07 - Capacitive Sensor | B L U E Top
+Pin 08 - LCD | P U R P L E
+Pin 09 - LCD | P U R P L E
+Pin 10 - LCD | P U R P L E
+Pin 11 - LCD | P U R P L E
+Pin 12 - LCD | Y E L L O W
+Pin 13 - LCD | Y E L L O W
+Pin 14 -
+Pin 15 -
+Pin 16 -
+__________
+
+Pin A0 - Tilt Sensor | G R E E N
+Pin A1 - 
+Pin A2 - Music Speaker | Y E L L O W
+Pin A3 - 
+Pin A4 -
+Pin A5 -  
+
+
+CapSensor | LCD | LED | Music | Tilt Sensor | Tri-colour LED
